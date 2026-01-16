@@ -2,7 +2,7 @@
 
 This repository contains a short step-by-step user guide for accessing the SLU Basreg data warehouse (**basregDWH**) from **R / RStudio** using `odbc`, `DBI`, `dplyr`, and `dbplyr`.
 
-**Audience:** Biologists and other researchers who are familiar with the idea of programming but are new to R packages and database workflows.
+**Intended audience:** Researchers and staff who are familiar with the idea of programming but are new to R packages and database workflows.
 
 ---
 
