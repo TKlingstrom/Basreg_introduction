@@ -1,4 +1,4 @@
-# Basreg introduction: see and download data from BasregDWH
+# Basreg introduction: using BasregDWH
 
 This repository contains a short step-by-step user guide for accessing the SLU Basreg data warehouse (**basregDWH**) from **R / RStudio** using `odbc`, `DBI`, `dplyr`, and `dbplyr`.
 
@@ -50,19 +50,20 @@ This repository contains a short step-by-step user guide for accessing the SLU B
 
 ### If you want to *run the tutorial*
 1. Open `basreg_userguide.Rmd` in RStudio
-2. Start at **Step 1** and run each code chunk in order
-   - In an R Markdown chunk, click the green ▶ button in the top-right of the chunk
+2. Read the introduction, then start at **Step 1** and run each code chunk in order
+   - In an R Markdown chunk, click the green ▶ button in the top-right corner of the chunk
    - Or select code and press **Ctrl + Enter**
 
 ### If you only want to *read the tutorial*
 - Open `basreg_userguide.html` in your web browser (recommended)
 - Or read `basreg_userguide.pdf`
 
+You can also copy each code segment from the HTML document or PDF into your own R-script to run the tutorial step by step. 
 ---
 
 ## Notes
 
-- Users typically have **read-only access**. You can view and download data, but you are not at risk of changing the database.
+- Users have **read-only access**. You can view and download data, but you are not at risk of changing the database, you should however not run very large and complex matching operations serverside to generate datasets as it may impact other users.
 - The guide saves example output (CSV) to your current working directory (`getwd()`).
 
 ---
