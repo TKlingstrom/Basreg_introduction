@@ -52,7 +52,7 @@ This repository contains a short step-by-step user guide for accessing the SLU B
 1. Open `basreg_userguide.Rmd` in RStudio
 2. Read the introduction, then start at **Step 1** and run each code chunk in order
    - In an R Markdown chunk, click the green ▶ button in the top-right corner of the chunk
-   - Or select code and press **Ctrl + Enter**
+   - Or, if using an R-script, select the code and press **Ctrl + Enter**
 
 ### If you only want to *read the tutorial*
 - Open `basreg_userguide.html` in your web browser (recommended)
