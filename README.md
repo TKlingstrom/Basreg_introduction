@@ -12,6 +12,7 @@ This repository contains a short step-by-step user guide for accessing the SLU B
 - `basreg_userguide.Rmd` — the main tutorial (run code step-by-step)
 - `basreg_userguide.html` — a pre-rendered HTML version you can read in a browser
 - `basreg_userguide.pdf` — a PDF version (A4, shortened where needed)
+- `Swedish version` — a folder to run the tutorial but with Swedish instructions
 
 ---
 
