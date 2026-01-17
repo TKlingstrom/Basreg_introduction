@@ -2,7 +2,7 @@
 
 This repository contains a short step-by-step user guide for accessing the SLU Basreg data warehouse (**basregDWH**) from **R / RStudio** using `odbc`, `DBI`, `dplyr`, and `dbplyr`.
 
-**Intended audience:** Researchers and staff who are familiar with the idea of programming but are new to R packages and database workflows.
+**Intended audience:** Researchers and staff who are familiar with the idea of programming but are new to R packages and accessing a database.
 
 ---
 
@@ -25,6 +25,14 @@ This repository contains a short step-by-step user guide for accessing the SLU B
 
 > If you have an SLU-issued Windows laptop, ODBC will normally verify your identity automatically when connecting.  
 > Linux and macOS users need a separate ODBC setup.
+
+This guide helps you access the SLU Basreg database (**basregDWH**) using R and RStudio.
+
+You can use any environment you wish to run R code but we assume Rstudio in this user guide. If you are unfamiliar with Rstudio, Posit (the maker of Rstudio) describes the interface here:
+https://docs.posit.co/ide/user/ide/guide/code/projects
+
+If you are reading this documentation with the intention of using it for data analysis. Please make sure you understand how R projects work:
+https://docs.posit.co/ide/user/ide/guide/code/projects.html 
 
 ---
 
