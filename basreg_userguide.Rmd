@@ -47,7 +47,7 @@ You will learn how to:
 - Filter and handle large datasets before downloading them
 
 If you are unfamiliar with Rstudio, Posit (the maker of Rstudio) describes the interface here:
-https://docs.posit.co/ide/user/ide/guide/code/projects
+https://docs.posit.co/ide/user/ide/guide/ui/ui-panes.html
 
 If you are reading this documentation with the intention of using it for data analysis. Please make sure you understand how R projects work:
 https://docs.posit.co/ide/user/ide/guide/code/projects.html 
@@ -62,7 +62,7 @@ You need:
 
 1. **RStudio**  
    Official getting started guide:  
-   https://posit.co/resources/videos/getting-started-with-rstudio/
+   https://docs.posit.co/ide/user/ide/get-started/
 
 2. **Access to SLU Basreg / BasregDWH**  
    For permissions, contact: **Eva Rundlöf**
