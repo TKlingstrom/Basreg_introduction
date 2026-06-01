@@ -30,12 +30,6 @@ h1, h2, h3 { color: #006938; }  /* SLU green (approx) */
 a { color: #005b96; }           /* SLU blue (approx) */
 </style>
 
-```{r logo, echo=FALSE, fig.align='left', out.width='4cm'}
-# Put the SLU logo file in your repo and update the path below.
-# Example: "images/slu_logo.png"
-knitr::include_graphics("slu_logo.png")
-```
-
 # Introduction
 
 This guide helps you access the SLU Basreg database (**basregDWH**) using R and RStudio.
