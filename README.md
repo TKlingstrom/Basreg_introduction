@@ -48,8 +48,8 @@ https://docs.posit.co/ide/user/ide/guide/code/projects.html
 
 ### Option B: Download as ZIP
 
-1. Open the repository in your browser
-2. Click **Code → Download ZIP**
+1. Open the repository in your browser (ie the page https://github.com/TKlingstrom/Basreg_introduction) 
+2. Click **Code → Download ZIP** (code is a green button on the upper right side of the page)
 3. Unzip the folder
 4. Open `Basreg_introduction.Rproj` in RStudio
 
