@@ -35,6 +35,9 @@ https://docs.posit.co/ide/user/ide/guide/code/projects
 If you are reading this documentation with the intention of using it for data analysis. Please make sure you understand how R projects work:
 https://docs.posit.co/ide/user/ide/guide/code/projects.html 
 
+You can also preview the guide here:
+https://tklingstrom.github.io/Basreg_introduction/
+
 ---
 
 ## Download this repository
